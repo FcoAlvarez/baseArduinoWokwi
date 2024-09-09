@@ -4,7 +4,7 @@ void setup()
 {
   Serial.begin(9600);
   Serial.println("Iniciando Arduino....");
-  Serial.println("Iniciado...")
+  Serial.println("Iniciado...");
 }
 
 void loop()
